@@ -1,6 +1,6 @@
 # projects
 
-#Sentiment Analysis on thesis examination 
+#Thematic Analysis on thesis examination 
 
 import nltk
 from nltk.corpus import stopwords
